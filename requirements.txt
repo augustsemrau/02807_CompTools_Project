@@ -17,3 +17,5 @@ scipy
 tqdm
 networkx
 netwulf
+scikit-learn
+node2vec
