@@ -162,3 +162,4 @@ cython_debug/
 
 fake-news/
 data/raw/
+data/
