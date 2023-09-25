@@ -161,4 +161,4 @@ cython_debug/
 
 
 fake-news/
-data/
+data/raw/
