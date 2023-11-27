@@ -13,6 +13,8 @@ pyarrow
 matplotlib
 pandas>=2.1.0
 numpy
+wordcloud
+watermark
 scipy
 tqdm
 networkx
@@ -20,3 +22,5 @@ netwulf
 scikit-learn
 node2vec
 nltk
+ipykernel
+
