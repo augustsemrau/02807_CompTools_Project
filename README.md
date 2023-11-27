@@ -12,6 +12,3 @@ Now, install the requirements:
 ```
 pip install -r requirements.txt
 ```
-
-### Data
-Go to [this webpage](https://www.kaggle.com/datasets/mdepak/fakenewsnet) and download the dataset. Create a folder namesd `./data/raw/FakeNewsNet` and copy all the downloaded files to this location. 
